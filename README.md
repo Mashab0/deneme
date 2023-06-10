@@ -1,1 +1,1 @@
-Mebre Akedemi frontend eğitimi.
+Mebre Akedemi Frontend Eğitimi.
